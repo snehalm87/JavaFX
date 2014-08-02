@@ -1,0 +1,11 @@
+#mainWindow {
+    -fx-background-color: #f5f5f5;
+    -fx-border-width: 2px;
+    -fx-border-color: #7f7c76;
+}
+
+#window-resize-button {
+    -fx-background-image: url("window-corner.png");
+    -fx-background-position: right 1px bottom 1px;
+    -fx-background-repeat: no-repeat;
+}
